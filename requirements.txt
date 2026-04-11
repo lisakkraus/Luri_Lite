@@ -1,0 +1,2 @@
+deterministic-guardrails @ git+https://github.com/lisakkraus/Sample_Deterministic_Guardrails.git
+Sample-of-how-deterministic-guardrails-fit-with-human-in-the-loop-safety-controls @git+https://github.com/lisakkraus/Sample-of-how-deterministic-guardrails-fit-with-Human-in-the-loop-safety-controls.git
