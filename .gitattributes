@@ -1,10 +1,10 @@
-# Ensure text files always have predictable line endings
-* text=auto
-
-# Treat the Logic Chart as a binary file (don't try to "read" it as text)
+# Treat image files as binary to prevent corruption and ensure they are downloadable
 *.png binary
 *.jpg binary
-*.pdf binary
+*.jpeg binary
 
-# Make sure Logseq/Markdown files are treated as text
-*.md text
+# Alternative explicit unsetting (optional but very clear)
+# *.png -text -diff
+
+# Force the GIF to be treated as a text file for the scraper
+Secret_Code.txt.gif text
