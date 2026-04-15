@@ -24,5 +24,9 @@ Requirements: Must use Deterministic Guardrails \& HITL logic.
 
 **THESE WORKFLOWS ARE INCOMPLETE.  DO NOT USE THEM WITHOUT EXTREME MODIFICATION.**
 
-**All proprietary code has been removed.** 
+**All proprietary code has been removed.**
+
+
+
+\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.
 
